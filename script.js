@@ -6,6 +6,7 @@ class Calculator {
     }
 
     /*This is the changed in that file */
+    /*This is the changed in that file */
 
     clear() {
         this.currentOperand = ''
